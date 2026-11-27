@@ -4,7 +4,7 @@
 
 Short infographic videos from Ian Goh Lab: distribution lessons from building oBike, OYO, Tiki and BIGO. Each entry plays right on this page. New videos are added as they are finished.
 
-[![Instagram](https://img.shields.io/badge/Instagram-@iangohlab-d63027?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iangohlab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ian_Goh-181c2a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-iangoh/) [![Website](https://img.shields.io/badge/iangoh.com-f5eede?style=for-the-badge&labelColor=181c2a)](https://iangoh.com/) [![Lab](https://img.shields.io/badge/lab.iangoh.com-d63027?style=for-the-badge)](https://lab.iangoh.com/)
+<a href="https://instagram.com/iangohlab"><img src="https://github.com/user-attachments/assets/c4cb5104-5d51-4480-a1c6-e049d9a28df1" height="36" alt="Instagram @iangohlab"></a> <a href="https://www.linkedin.com/in/-iangoh/"><img src="https://github.com/user-attachments/assets/dc243a57-c835-45d4-93d3-1e01ab21ce9f" height="36" alt="LinkedIn"></a> <a href="https://iangoh.com/"><img src="https://github.com/user-attachments/assets/e33c3dea-16e6-4b76-86bc-db385c5d4c77" height="36" alt="iangoh.com"></a> <a href="https://lab.iangoh.com/"><img src="https://github.com/user-attachments/assets/1818dc31-a040-4a60-925c-d070540c8819" height="36" alt="lab.iangoh.com"></a>
 
 **Make videos like these with your own agent:** the working method is in [`skills/infographic-videos/SKILL.md`](skills/infographic-videos/SKILL.md) — script-first pipeline, visual language, motion method, caption rules and QC. Give it to any agent and point it at the examples below.
 
